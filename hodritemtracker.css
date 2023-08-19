@@ -6,8 +6,9 @@ img {
     position: absolute;
 }
 
+/* Filter class for unselected items. */
 .grayscale {
-    filter: grayscale(90%);
+    filter: grayscale(90%) opacity(40%);
 }
 
 /* All IDs below this point are used to align images (background and icons). */
