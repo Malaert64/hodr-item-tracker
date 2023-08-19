@@ -1,0 +1,148 @@
+body {
+    background-color: #0a0a0a;
+}
+
+img {
+    position: absolute;
+}
+
+.grayscale {
+    filter: grayscale(90%);
+}
+
+/* All IDs below this point are used to align images (background and icons). */
+
+#background {
+    left: 0px;
+    top: 0px;
+}
+
+/* MOVEMENT */
+
+#lizard-tail {
+    left: 20px;
+    top: 32px;
+}
+
+#silph-feather {
+    left: 100px;
+    top: 32px;
+}
+
+#griffins-wing {
+    left: 180px;
+    top: 32px;
+}
+
+/* WARPING */
+
+#death-talk {
+    left: 340px;
+    top: 32px;
+}
+
+#hint-cards {
+    left: 420px;
+    top: 32px;
+}
+
+#card-counter {
+    left: 500px;
+    top: 32px;
+}
+
+/* VLAD RELICS */
+
+#eye-of-vlad {
+    left: 60px;
+    top: 144px;
+}
+
+#heart-of-vlad {
+    left: 140px;
+    top: 144px;
+}
+
+#rib-of-vlad {
+    left: 220px;
+    top: 144px;
+}
+
+#nail-of-vlad {
+    left: 300px;
+    top: 144px;
+}
+
+#fang-of-vlad {
+    left: 380px;
+    top: 144px;
+}
+
+#vlads-ring {
+    left: 460px;
+    top: 144px;
+}
+
+/* INVENTORY */
+
+#lure-key {
+    left: 20px;
+    top: 256px;
+}
+
+#skull-key {
+    left: 100px;
+    top: 256px;
+}
+
+#floodgate-key {
+    left: 180px;
+    top: 256px;
+}
+
+#crushma-stone {
+    left: 260px;
+    top: 256px;
+}
+
+#crushma-boots {
+    left: 340px;
+    top: 256px;
+}
+
+#mk-bracelet {
+    left: 420px;
+    top: 256px;
+}
+
+#night-goggles {
+    left: 500px;
+    top: 256px;
+}
+
+/* SPELLBOOKS */
+
+#ice-book {
+    left: 100px;
+    top: 368px;
+}
+
+#fire-book {
+    left: 180px;
+    top: 368px;
+}
+
+#bolt-book {
+    left: 260px;
+    top: 368px;
+}
+
+#wind-book {
+    left: 340px;
+    top: 368px;
+}
+
+#summoning-tome {
+    left: 420px;
+    top: 368px;
+}
